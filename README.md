@@ -129,7 +129,7 @@ Algorithm has been applied to all the 7 Known environments and the results of 2 
 
 |doorkey-6x6-normal|doorkey-8x8-normal|
 |---|---|
-|<img src="./Code/Results/gif_partA/doorkey-6x6-normal.gif" height="200">|<img src="Code/Results/gif_partA/doorkey-8x8-normal.gif" height="200">| 
+|<img src="https://drive.google.com/file/d/1cY0cBmU0tpJQIMaEPhqxQLvPu1kXR0nZ/view?usp=drive_link" height="200">|<img src="Code/Results/gif_partA/doorkey-8x8-normal.gif" height="200">| 
 
 ### RANDOM Environments
 
