@@ -136,7 +136,7 @@ Algorithm has been applied to all the 36 Random environments and the results of 
 
 |DoorKey-8x8-24|DoorKey-8x8-12|
 |---|---|
-|![doorkey-8x8-24](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partB/DoorKey-8x8-24.gif)|![doorkey-8x8-12](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partB/Doorkey-8x8-12.gif)| 
+|![doorkey-8x8-24](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partB/DoorKey-8x8-24.gif)|![doorkey-8x8-12](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partB/DoorKey-8x8-12.gif)| 
 
 
 ## Conclusion
