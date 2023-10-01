@@ -129,14 +129,15 @@ Algorithm has been applied to all the 7 Known environments and the results of 2 
 
 |doorkey-6x6-normal|doorkey-8x8-normal|
 |---|---|
-|![doorkey-6x6-normal](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partA/doorkey-6x6-normal.gif)|<img src="Code/Results/gif_partA/doorkey-8x8-normal.gif" height="200">| 
+|![doorkey-6x6-normal](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partA/doorkey-6x6-normal.gif)|![doorkey-8x8-normal](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partA/doorkey-8x8-normal.gif)|
 ### RANDOM Environments
 
 Algorithm has been applied to all the 36 Random environments and the results of 2 Random environments are: 
 
 |DoorKey-8x8-24|DoorKey-8x8-12|
 |---|---|
-|<img src="./Code/Results/gif_partB/DoorKey-8x8-24.gif" height="200">|<img src="./Code/Results/gif_partB/DoorKey-8x8-12.gif" height="200">| 
+|![doorkey-8x8-24](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partB/doorkey-8x8-24.gif)|![doorkey-8x8-12](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partB/doorkey-8x8-12.gif)| 
+
 
 ## Conclusion
 
