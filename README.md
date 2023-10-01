@@ -1,4 +1,4 @@
-# Dynamic-Programming
+# Autonomous Navigation in a Door & Key environment using Dynamic Programming
 
 ## Project Overview
 
