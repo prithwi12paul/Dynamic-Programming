@@ -127,7 +127,7 @@ Since all the random environments are 8x8 Doorkey maps, follow these steps:
 
 Algorithm has been applied to all the 7 Known environments and the results of 2 known environments are: 
 
-|doorkey-6x6-normal|doorkey-8x8-normal|
+|Doorkey-6x6-normal|Doorkey-8x8-normal|
 |---|---|
 |![doorkey-6x6-normal](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partA/doorkey-6x6-normal.gif)|![doorkey-8x8-normal](https://github.com/prithwi12paul/Dynamic-Programming/blob/main/Results/gif_partA/doorkey-8x8-normal.gif)|
 ### RANDOM Environments
