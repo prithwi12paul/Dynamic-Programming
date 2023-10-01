@@ -127,13 +127,11 @@ Since all the random environments are 8x8 Doorkey maps, follow these steps:
 
 The results section provides insights into the algorithm's performance in various environments. It includes evaluation data and visualizations to demonstrate the effectiveness of the autonomous navigation system. The gifs of the environments are present in the [Results](./Results) folder.
 
-### KNOWN Environments
-
 Algorithm has been applied to all the 7 Known environments and the results of 2 known environments are: 
 
 |doorkey-6x6-normal|doorkey-8x8-normal|
 |---|---|
-|<img src="./Code/Results/gif_partA/doorkey-6x6-normal.gif" height="200">|<img src="./Code/Results/gif_partA/doorkey-8x8-normal.gif" height="200">| 
+|<img src="./Code/Results/gif_partA/doorkey-6x6-normal" height="200">|<img src="Code/Results/gif_partA/doorkey-8x8-normal" height="200">| 
 
 ### RANDOM Environments
 
@@ -141,8 +139,7 @@ Algorithm has been applied to all the 36 Random environments and the results of 
 
 |DoorKey-8x8-24|DoorKey-8x8-12|
 |---|---|
-|<img src="./Code/Results/gif_partB/DoorKey-8x8-24.gif" height="200">|<img src="./Code/Results/gif_partB/DoorKey-8x8-12.gif" height="200">| 
-
+|<img src="./Code/Results/gif_partB/DoorKey-8x8-24" height="200">|<img src="./Code/Results/gif_partB/DoorKey-8x8-12" height="200">| 
 
 ## Conclusion
 
